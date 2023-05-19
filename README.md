@@ -17,7 +17,7 @@ A new user can easily register, filling username, name, password fields. After s
 After log in, the user can update or delete his profile. The informations will be stored in the database or the user will be 
 deleted from the database. 
 
-![Screenshot](update.jpg)
+
 
 I’m using session management for login/logout. Also URL rewriting is used for the case that the client doesn't support cookies.
 
