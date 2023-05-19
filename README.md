@@ -10,7 +10,6 @@ This is the structure of the app:
 When a user logs in, check their password. The user’s password is stored in the database. When the user attempts to log in, 
 we will compare the password with information in the database. 
 
-![Screenshot](mysql.jpg)
 
 A new user can easily register, filling username, name, password fields. After submitting form, the data will be stored in the database table. So that next time user can login with the login credentials which are used while user registration.
 
