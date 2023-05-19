@@ -13,7 +13,6 @@ we will compare the password with information in the database.
 
 A new user can easily register, filling username, name, password fields. After submitting form, the data will be stored in the database table. So that next time user can login with the login credentials which are used while user registration.
 
-![Screenshot](reg.jpg)
 
 After log in, the user can update or delete his profile. The informations will be stored in the database or the user will be 
 deleted from the database. 
